@@ -18,6 +18,7 @@ header {
     font-size: 36px;
     color: #fce138;
     margin: 0;
+    display: inline;
   }
   header a {
     text-decoration: none;
@@ -35,13 +36,7 @@ header {
       font-weight: lighter; 
       font-size: 22px;
   }
-  header h1 {
-      font-weight: bold; 
-      font-size: 36px;
-      color: #fce138;
-      margin: 0;
-      display: inline;
-  }
+
   footer {
       background: #fce138;
       width: 100%;
